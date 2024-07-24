@@ -7,7 +7,7 @@ In this tutorial we'll be sharing out resources over the network, as well as cre
 # Requirements:
 
 - Active Directory running in Azure on a virtual machine named "DC-1"
-- A Client machine running in Azure on a virtual machine named "Client-1" and joined to the domaain
+- A Client machine running in Azure on a virtual machine named "Client-1" and joined to the domain
 
 # Steps:
 
